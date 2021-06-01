@@ -24,8 +24,7 @@ The following files will be changing to best reflect the interest of the group (
 * [Day Two](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/Day_Two.md)
 * [Day Three](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/Day_Three.md)
 * [Day Four](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/Day_Four.md)
-* [Day Five](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/Day_Five
-.md)
+* [Day Five](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/Day_Five.md)
 
 ### Useful links
 [Stylo cheatsheet presentation](https://github.com/JoannaBy/stylo_nutshell)
