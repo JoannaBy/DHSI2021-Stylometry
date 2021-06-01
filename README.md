@@ -4,7 +4,8 @@ Notes and materials for "Stylometry with R: Computer-Assisted Analysis of Litera
 We acknowledge and respect the Lkwungen-speaking peoples, on whose traditional territory the university where we teach stands, and the Songhees, Esquimalt and WSÁNEĆ peoples whose historical relationships with the land continue to this day.  
 
 ## Pre-course
-Before the course, please take a look at the reading list and install necessary programs. Please take a moment to read [DHSI Statement on Ethics and Inclusion](http://www.dhsi.org/events.php#ethics+inclusion).
+Before the course, please take a look at the reading list and install necessary programs. Please take a moment to read [DHSI Statement on Ethics and Inclusion](http://www.dhsi.org/events.php#ethics+inclusion).  
+Please also visit the Discord server an invitation to which you received via email and introduce yourself.
   
 ### Reading  
 All the suggested readings are available in the coursepack provided to you via DHSI channels.  
@@ -17,13 +18,14 @@ You will find detailed installation tips [here](https://github.com/JoannaBy/DHSI
 While you are not obliged to do this before the course, you might find it useful to take a look [here](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/before_the_course/useful_tools.md) and think about your text editor and other tools you use. Finally, take a look at [the homeworks](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/before_the_course/homeworks.md) we will be dealing with - perhaps you'd like to get a head start and have more time to relax in the evenings during the course?
 
 ## During the course
-The following files will be changing to best reflect the interest of the group (and to document what we do together). The proposed schedule is a very rough version based on our past experiences teaching this course.
+The following files will be changing to best reflect the interest of the group (and to document what we do together). The proposed schedule is a very rough version based on our past experiences teaching this course. The ongoing communication will be taking place on Zoom in live sessions and Discord server beyond live meetings, so notes here are just a more structured summary.
 ### Day notes
-* [Day One](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/14th_June.md)
-* [Day Two](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/15th_June.md)
-* [Day Three](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/16th_June.md)
-* [Day Four](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/17th_June.md)
-* [Day Five](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/18th_June.md)
+* [Day One](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/Day_One.md)
+* [Day Two](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/Day_Two.md)
+* [Day Three](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/Day_Three.md)
+* [Day Four](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/Day_Four.md)
+* [Day Five](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/Day_Five
+.md)
 
 ### Useful links
 [Stylo cheatsheet presentation](https://github.com/JoannaBy/stylo_nutshell)
