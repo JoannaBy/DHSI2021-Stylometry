@@ -19,6 +19,28 @@ While you are not obliged to do this before the course, you might find it useful
 
 ## During the course
 The following files will be changing to best reflect the interest of the group (and to document what we do together). The proposed schedule is a very rough version based on our past experiences teaching this course. The ongoing communication will be taking place on Zoom in live sessions and Discord server beyond live meetings, so notes here are just a more structured summary.
+
+### Plan of live sessions
+The live sessions take place on Zoom and links are posted on the Discord server available to the registered participants.
+#### Monday, 14 th June 2019
+* 9:00-10:00 PST - Introductions
+* 10:10–11:10 PST - stylo: Introduction to a Stylometric R Package
+* Discussion of issues
+#### Tuesday, 15 th June 2019
+* 9:00–10:00 PST - Bootstrapping
+* 10:10–11:10 PST - Corpus design
+* Discussion of issues
+#### Wednesday, 16 th June 2019
+* 9:00–10:00 PST - Introduction to network theory in the context of stylometry
+* 10:10–11:10 PST - Working with Gephi and stylo() networks
+* Discussion of issues
+#### Thursday, 17 th June 2019
+* 9:00–10:00 PST - Introduction to supervised classification
+* 10:10–11:10 PST - Sequential stylometry
+* Discussion of issues
+#### Friday, 18 th June 2019
+* 9:00-11:00 PST - Discussion of trainees’ projects
+
 ### Day notes
 * [Day One](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/Day_One.md)
 * [Day Two](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/daily_notes/Day_Two.md)
