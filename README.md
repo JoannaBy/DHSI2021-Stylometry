@@ -52,7 +52,7 @@ The live sessions take place on Zoom and links are posted on the Discord server 
 [Stylo cheatsheet presentation](https://github.com/JoannaBy/stylo_nutshell)
   
 Documentation of the package ‘stylo’:
-* for (sort of) beginners: a concise [HOWTO](https://sites.google.com/site/computationalstylistics/stylo/stylo_howto.pdf)
+* for (sort of) beginners: a concise [HOWTO](https://github.com/computationalstylistics/stylo_howto/blob/master/stylo_howto.pdf)
 * for advanced users: [a paper in R Journal](https://journal.r-project.org/archive/2016/RJ-2016-007/RJ-2016-007.pdf)
 * full documentation at [CRAN](https://cran.r-project.org/web/packages/stylo/stylo.pdf)  
   
