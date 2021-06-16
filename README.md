@@ -12,7 +12,9 @@ All the suggested readings are available in the coursepack provided to you via D
 We also created a [syllabus of references used in the coursepack and suggested further reading](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/before_the_course/reading.md) (note that the latter list might grow to reflect our discussions during the course).
   
 ### Installations
-You will find detailed installation tips [here](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/before_the_course/installations.md)
+You will find detailed installation tips [here](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/before_the_course/installations.md)  
+
+And for [Gephi](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/main/gephi-installation.md).
 
 ### Useful links and homework
 While you are not obliged to do this before the course, you might find it useful to take a look [here](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/before_the_course/useful_tools.md) and think about your text editor and other tools you use. Finally, take a look at [the homeworks](https://github.com/JoannaBy/DHSI2021-Stylometry/blob/master/before_the_course/homeworks.md) we will be dealing with - perhaps you'd like to get a head start and have more time to relax in the evenings during the course?
